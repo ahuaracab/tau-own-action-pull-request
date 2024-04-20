@@ -103,7 +103,7 @@ const main = async () => {
             owner,
             repo,
             issue_number: pr_number,
-            labels: ['other'],
+            labels: ['others'],
           });
       }
     }
